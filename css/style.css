@@ -8568,6 +8568,15 @@ h1, h2, h3, h4, h5,
       .slider-text .bread {
         font-size: 50px; } }
 
+        .bread2 {
+          font-weight: 100;
+          color: plum;
+          font-size: 95px;
+          font-family: "Poppins", Arial, sans-serif; }
+          @media (max-width: 991.98px) {
+            .bread2 {
+              font-size: 60px; } }
+
 .ftco-volunteer .text h2 {
   font-weight: 900;
   font-size: 50px;
