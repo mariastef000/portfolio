@@ -2032,6 +2032,7 @@ textarea.form-control {
 
 .btn {
   display: inline-block;
+  margin-bottom: 4rem;
   font-weight: 400;
   color: #212529;
   text-align: center;
@@ -2061,11 +2062,12 @@ textarea.form-control {
     text-decoration: none; }
   .btn:focus, .btn.focus {
     outline: 0;
-    -webkit-box-shadow: 0 0 0 0.2rem rgba(0, 123, 255, 0.25);
-    box-shadow: 0 0 0 0.2rem rgba(0, 123, 255, 0.25); }
+    -webkit-box-shadow: 0 0 0 0.2rem rgba(0, 0, 0, 0.25);
+    box-shadow: 0 0 0 0.2rem rgba(0, 0, 0, 0.25); }
   .btn.disabled, .btn:disabled {
     opacity: 0.65; }
 
+/*
 a.btn.disabled,
 fieldset:disabled a.btn {
   pointer-events: none; }
@@ -2491,6 +2493,7 @@ input[type="submit"].btn-block,
 input[type="reset"].btn-block,
 input[type="button"].btn-block {
   width: 100%; }
+*/
 
 .fade {
   -webkit-transition: opacity 0.15s linear;
@@ -6727,7 +6730,7 @@ button.bg-dark:focus {
 
 .pb-3,
 .py-3 {
-  padding-bottom: 2rem !important; }
+  padding-bottom: 1rem !important; }
 
 .pl-3,
 .px-3 {
@@ -6742,7 +6745,7 @@ button.bg-dark:focus {
 
 .pr-4,
 .px-4 {
-  padding-right: 1.5rem !important; }
+  padding-right: 3.5rem !important; }
 
 .pb-4,
 .py-4 {
@@ -6750,7 +6753,7 @@ button.bg-dark:focus {
 
 .pl-4,
 .px-4 {
-  padding-left: 1.5rem !important; }
+  padding-left: 3.5rem !important; }
 
 .p-5 {
   padding: 3rem !important; }
