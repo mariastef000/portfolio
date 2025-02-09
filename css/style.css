@@ -13583,9 +13583,11 @@ img {vertical-align: middle;}
   color: black;
 }
 
+/*
 .its-alien {
   @media screen and (max-width: 1400px) {
       visibility: hidden;
       display: none;
     }
   }
+/*
