@@ -11545,7 +11545,7 @@ h5,
 }
 
 .ftco-navbar-light .navbar-nav>.nav-item>.nav-link:hover {
-  color: #FFD3BA;
+  color: #b19cd9;
 }
 
 @media (max-width: 991.98px) {
@@ -11554,7 +11554,7 @@ h5,
     padding-right: 0;
     padding-top: .9rem;
     padding-bottom: .9rem;
-    color: #FFD3BA;
+    color: #b19cd9;
   }
 
   .ftco-navbar-light .navbar-nav>.nav-item>.nav-link:hover {
@@ -11623,7 +11623,7 @@ h5,
 @media (max-width: 991.98px) {
   .ftco-navbar-light .navbar-nav>.nav-item.cta>a {
     color: #fff;
-    background: #ffd3ba;
+    background: #b19cd9;
   }
 }
 
@@ -12177,7 +12177,7 @@ h5,
 }
 
 .ftco-intro h2 span {
-  background:#FFD3BA;
+  background:#b19cd9;
 }
 
 .services-section {
