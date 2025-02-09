@@ -11538,7 +11538,7 @@ h5,
   padding-left: 20px;
   padding-right: 20px;
   font-weight: 600;
-  color: black;
+  color: white;
   text-transform: uppercase;
   letter-spacing: 2px;
   opacity: 1 !important;
@@ -13582,3 +13582,10 @@ img {vertical-align: middle;}
   background-color: #f1f1f1;
   color: black;
 }
+
+.its-alien {
+  @media screen and (max-width: 1400px) {
+      visibility: hidden;
+      display: none;
+    }
+  }
